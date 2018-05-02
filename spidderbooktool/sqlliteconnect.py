@@ -34,7 +34,7 @@ def addchapters(book,chapter,title,link,file):
 #
 # # 打开数据库连接
 # db=pymysql.connect(host='127.0.0.1', user='mysuer', passwd='223344', db='crazyjoeblog',charset='utf8')
-# # db = pymysql.connect("localhost","root","577jl1?;","crazyjoeblog" )
+# # db = pymysql.connect("localhost","root","","crazyjoeblog" )
 # # 使用cursor()方法获取操作游标
 # cur = db.cursor()
 #
